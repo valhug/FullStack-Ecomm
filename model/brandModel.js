@@ -15,3 +15,4 @@ const brandSchema = new mongoose.Schema({
 const BrandName = mongoose.model('BrandName', brandSchema);
 
 export default BrandName;
+/// added a new comment
